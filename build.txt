@@ -1,0 +1,3 @@
+displayName = Magic & Blood
+author = Sebaj12, Atu33, Kemyt141
+version = 0.1
